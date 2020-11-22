@@ -1,6 +1,10 @@
 ### Hi there, I'm Junior Sanchez 👋
-[![JySa65's github stats](https://github-readme-stats.vercel.app/api?username=jysa65&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/JySa65?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jysa65&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/JySa65?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jysa65" />
+</a>
 <!--
 **JySa65/JySa65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
