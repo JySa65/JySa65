@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/jysa65/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-### Database that I know
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Database that I know
 
 <p align="center">
   <img src="https://img.shields.io/badge/postgresql-6566ba.svg?style=for-the-badge&logo=postgresql&logoColor=6566ba&labelColor=ffffff" alt="postgresql">
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/MongDB-47A248?style=for-the-badge&logo=mongodb&labelColor=ffffff" alt="mongodb" />
 </p>
  
-### Programming language that I know
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Programming language that I know
 <p align="center">
   <img src="https://img.shields.io/badge/python-FFD43B.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python">
   <img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript">
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Node-339933.svg?style=for-the-badge&logo=Node.js&labelColor=ffffff" alt="javascript">
 </p>
 
-### Framework or libs I know in fronted
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Framework or libs I know in fronted
 <p align="center">
  <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react">
  <!-- <img src="https://img.shields.io/badge/React Native-3aabe8.svg?style=for-the-badge&logo=react&logoColor=3aabe8&labelColor=ffffff" alt="react native"> -->
