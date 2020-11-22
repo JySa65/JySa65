@@ -1,12 +1,14 @@
 # Hi there, I'm Junior Sanchez 👋 <img src="https://image.flaticon.com/icons/svg/197/197580.svg" width="30"/>
-
+## I'm simple web developer
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JySa65" alt="JySa65" />
   <a href="https://github.com/JySa65"><img src="https://img.shields.io/github/followers/JySa65.svg?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/jysa65/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:jysa65.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email--_.svg?style=social&logo=gmail"></a>
 </p>
 
-### Database that I know
+### In Database
 
 <p>
   <img src="https://img.shields.io/badge/postgresql-6566ba.svg?style=for-the-badge&logo=postgresql&logoColor=6566ba&labelColor=ffffff" alt="postgresql">
@@ -80,6 +82,14 @@
 
 <p>
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=0db7ed&labelColor=ffffff"/>
+</p>
+
+### In Progress
+
+<p>
+  <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=326ce5&labelColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=02569B&labelColor=ffffff" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=ffffff"/>
 </p>
 
 
