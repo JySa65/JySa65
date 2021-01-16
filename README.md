@@ -1,5 +1,5 @@
 # Hi there, I'm Junior Sanchez 👋 <img src="https://image.flaticon.com/icons/svg/197/197580.svg" width="30"/>
-## I'm simple web developer
+## I'm simple developer
 <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JySa65" alt="JySa65" />
