@@ -84,14 +84,14 @@
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=0db7ed&labelColor=ffffff"/>
 </p>
 
-### In Progress
 
-<p>
+<!-- ### In Progress -->
+
+<!-- <p>
   <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=326ce5&labelColor=ffffff"/>
   <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=02569B&labelColor=ffffff" />
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=ffffff"/>
-</p>
-
+</p> -->
 
 <br>
 <br>
