@@ -43,7 +43,7 @@
 
 <p>
  <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react">
- <!-- <img src="https://img.shields.io/badge/React Native-3aabe8.svg?style=for-the-badge&logo=react&logoColor=3aabe8&labelColor=ffffff" alt="react native"> -->
+ <img src="https://img.shields.io/badge/React Native-3aabe8.svg?style=for-the-badge&logo=react&logoColor=3aabe8&labelColor=ffffff" alt="react native">
  <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?style=for-the-badge&logo=vue.js&&logoColor=%234FC08D&labelColor=ffffff" alt="react native">
 </p>
 
